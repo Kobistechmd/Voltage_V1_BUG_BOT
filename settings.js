@@ -10,7 +10,7 @@ global.location = "Nigeria, delta"
 
 global.ownernumber = '2349026678751'  //creator number
 global.ownername = 'kobos lord' //owner name
-global.botname = 'kobos md' //name of the bot
+global.botname = 'kobis md' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
@@ -61,7 +61,7 @@ global.mess = {
     error: 'Error!',
 }
 
-global.thumb = fs.readFileSync('https://telegra.ph/file/d43039fa9370a290c7dac.jpg')
+global.thumb = fs.readFileSync('./XeonMedia/thumb.jpg')
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
