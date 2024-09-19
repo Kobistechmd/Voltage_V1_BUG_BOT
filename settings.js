@@ -9,7 +9,7 @@ global.socialm = "GitHub: kobistechnology"
 global.location = "Nigeria, delta"
 
 global.ownernumber = '2349026678751'  //creator number
-global.ownername = 'kobos lord' //owner name
+global.ownername = 'kobis lord' //owner name
 global.botname = 'kobis md' //name of the bot
 
 //sticker details
